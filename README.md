@@ -20,7 +20,7 @@ The goal of this project is to find out what are the characteristics people are 
 
 <a name="structure"></a>
 ## Structure
-- manual data collecting of 33 hotels and apartments in Lisbon on Booking.com
+- manual data collection of 33 hotels and apartments in Lisbon on Booking.com
 - survey with 37 entries regarding accommodation preferencies 
 - 
 <a name="deliverables"></a>
