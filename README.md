@@ -22,7 +22,7 @@ The goal of this project is to find out what are the characteristics people are 
 ## Structure
 - manual data collection of 33 hotels and apartments in Lisbon on Booking.com
 - survey with 37 entries regarding accommodation preferencies 
-- 
+
 <a name="deliverables"></a>
 ## Deliverables
 - Github repository
@@ -33,4 +33,4 @@ The goal of this project is to find out what are the characteristics people are 
 - [Booking.com Lisbon](https://www.booking.com/city/pt/lisbon.html?aid=1610684;label=lisbon-XrbcDzyTwd5IiJgZiHI0GwS380942575433:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-303200405188:lp1011742:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YfqnDqqG8nt10AsofPfvtt0;ws=&gclid=Cj0KCQiAnNacBhDvARIsABnDa68mx9LWhKrVKurwFPhsgDixcpxNEmJNIxn83Zz0oKFZS_l2lUDPWtEaAlAVEALw_wcB)
 - [Survey](https://ironhack.typeform.com/to/VufYrgfv)
 - [Airbnb](https://www.airdna.co/vacation-rental-data/app/pt/lisboa/lisbon/overview)
-- 
+
